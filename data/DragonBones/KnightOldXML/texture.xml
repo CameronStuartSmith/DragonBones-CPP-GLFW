@@ -1,0 +1,28 @@
+<TextureAtlas name="Knight" width="1024" height="128">
+  <SubTexture name="knightFolder/arrow_3" width="83" height="25" x="451" y="18"/>
+  <SubTexture name="knightFolder/arrow_2" width="83" height="18" x="182" y="26"/>
+  <SubTexture name="knightFolder/bow_3" width="30" height="64" x="984" y="0"/>
+  <SubTexture name="knightFolder/bow_2" width="20" height="50" x="313" y="26"/>
+  <SubTexture name="knightFolder/axe_2" width="104" height="50" x="592" y="0"/>
+  <SubTexture name="knightFolder/axe_3" width="106" height="64" x="343" y="0"/>
+  <SubTexture name="knightFolder/pike_3" width="180" height="32" x="0" y="0"/>
+  <SubTexture name="knightFolder/pike_2" width="159" height="24" x="182" y="0"/>
+  <SubTexture name="knightFolder/sword_3" width="105" height="36" x="698" y="0"/>
+  <SubTexture name="knightFolder/sword_2" width="90" height="28" x="892" y="0"/>
+  <SubTexture name="knightFolder/bow_a" width="8" height="8" x="713" y="38"/>
+  <SubTexture name="knightFolder/bow_1" width="14" height="50" x="84" y="34"/>
+  <SubTexture name="knightFolder/arrow_1" width="82" height="10" x="0" y="34"/>
+  <SubTexture name="knightFolder/bow_b" width="1" height="30" x="1016" y="0"/>
+  <SubTexture name="knightFolder/axe_1" width="85" height="40" x="805" y="0"/>
+  <SubTexture name="knightFolder/pike_1" width="139" height="16" x="451" y="0"/>
+  <SubTexture name="knightFolder/sword_1" width="80" height="18" x="892" y="30"/>
+  <SubTexture name="knightFolder/horseEye" width="13" height="13" x="698" y="38"/>
+  <SubTexture name="knightFolder/horseHead_" width="40" height="48" x="536" y="18"/>
+  <SubTexture name="knightFolder/body" width="14" height="16" x="164" y="34"/>
+  <SubTexture name="knightFolder/leg" width="8" height="16" x="578" y="18"/>
+  <SubTexture name="knightFolder/head" width="44" height="40" x="267" y="26"/>
+  <SubTexture name="knightFolder/arm" width="20" height="10" x="142" y="34"/>
+  <SubTexture name="knightFolder/horseBody" width="40" height="20" x="100" y="34"/>
+  <SubTexture name="knightFolder/horseTail" width="8" height="12" x="578" y="36"/>
+  <SubTexture name="knightFolder/horseLeg" width="8" height="14" x="974" y="30"/>
+</TextureAtlas>
